@@ -55,11 +55,13 @@ my-business-web
 ### บริการ
 
 [บริการ](services.html)
-![services.html](images/บริการ.png)
+![services.html](images/บริการ1.png)
+![services.html](images/บริการ2.png)
 
 ### ติดต่อเรา
 
 [ติดต่อเรา](contact.html)
-![contact.html](images/ติดต่อ.png)
+![contact.html](images/ติดต่อ1.png)
+![contact.html](images/ติดต่อ2.png)
 
 ---
